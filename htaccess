@@ -1,0 +1,9 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page33750832.html
+
+RewriteEngine On
+
+RewriteRule ^favicon.ico$ https://static.tildacdn.com/tild3238-3632-4763-b835-663262616164/small2.ico [R=302,L]
+
